@@ -1,7 +1,6 @@
 # UCT SHARC Buoy Snow Depth Sensor (SDS) System: Code Design 
 by Eunseong Kim (KMXEUN004)
 #
-
 <br />
 
 #
