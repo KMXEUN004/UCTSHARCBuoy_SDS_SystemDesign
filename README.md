@@ -3,7 +3,7 @@ by Eunseong Kim (KMXEUN004)
 #
 ### This GitHub respiratory contains the overall demo code design developed during the "UCT SHARC Snow Depth Sensor (SDS) System Design" project. 
 #
-The code design was done using Arduino IDE.\
+All code design was done using Arduino IDE.\
 Before uploading this code onto an Arduino microcontroller (Arduino Pro Mini 3.3 V as per designed), the overall circuit needs to be built (see section 6.1.2).\
 The overall flow diagram of this code deesign can be found in section 6.2.1.
 <br />
