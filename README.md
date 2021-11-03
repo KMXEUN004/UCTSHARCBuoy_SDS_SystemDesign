@@ -8,6 +8,7 @@ by Eunseong Kim (KMXEUN004)
 * The overall flow diagram of this code deesign can be found in section 6.2.1.
 <br />
 #
+
 The code design contains libraries which needs to be downloaded in order to use the code design. The following libraries and the associated links are listed below:
 * **"VL53L1X.h"**, library used for communication with the VL53L1X sensor. ("Continuous", https://github.com/pololu/vl53l1x-arduino), (Pololu, et al., 2021).
 * **"RTClib.h"**, library for controlling the DS3231 RTC. (“DS3231_alarm”, https://github.com/adafruit/RTClib), (Adafruit: MIT License, n.d.).
