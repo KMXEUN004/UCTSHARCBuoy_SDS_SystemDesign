@@ -26,4 +26,4 @@ There are several manual inputs required, which are as follows:
 * **Inter-measurement period** (the duration of passive phase) designed to be 6 hours for power efficient design. This value may be changed if necessary.
 <br />
 
-### The code is yet a demo design, whereby further improvements are necessary. For example, UART communication with RockBlock9603 was designed based on theory, which needs to be validated thorugh actual communicaiton with the Iridium Modem.
+**The code is yet a demo design, whereby further improvements are necessary. For example, UART communication with RockBlock9603 was designed based on theory, which needs to be validated thorugh actual communicaiton with the Iridium Modem.**
