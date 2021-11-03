@@ -10,7 +10,7 @@ by Eunseong Kim (KMXEUN004)
 <br />
 
 
-The code design contains libraries which need to be downloaded in order to implement the code design. The following libraries and the associated links are listed below:
+The code design contains libraries which need to be downloaded in order to implement the code design. The libraries used and the associated links are listed below:
 * **"VL53L1X.h"**, library used for communication with the VL53L1X sensor. ("Continuous", https://github.com/pololu/vl53l1x-arduino), (Pololu, et al., 2021).
 * **"RTClib.h"**, library for controlling the DS3231 RTC. (“DS3231_alarm”, https://github.com/adafruit/RTClib), (Adafruit: MIT License, n.d.).
 * **"IridiumSBD.h"**, library for communucatoin between Arduino and Iridium modems.(https://github.com/mikalhart/IridiumSBD/blob/master/src/IridiumSBD.h), (Hart, 2019).
