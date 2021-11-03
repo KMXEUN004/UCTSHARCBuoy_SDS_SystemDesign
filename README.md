@@ -7,11 +7,11 @@
 ### The overall flow diagram of this code deesign can be found in section 6.2.1.
 
 The code design contains libraries which needs to be downloaded in order to use the code design. The following libraries and the associated links are listed below:
-*VL53L1X.h                //Library for communication with the VL53L1X sensor. ("Continuous", https://github.com/pololu/vl53l1x-arduino),(Pololu, et al., 2021)
-*RTClib.h                 //Library for controlling DS3231. (“DS3231_alarm”, https://github.com/adafruit/RTClib), (Adafruit: MIT License, n.d.)
-*IridiumSBD.h             //Library for communucatoin between Arduino and Iridium modems.(https://github.com/mikalhart/IridiumSBD/blob/master/src/IridiumSBD.h), (Hart, 2019)
-*LowPower.h               //Standard libraries for Arduino sleep function.
-*avr/sleep.h
+* VL53L1X.h                //Library for communication with the VL53L1X sensor. ("Continuous", https://github.com/pololu/vl53l1x-arduino),(Pololu, et al., 2021)
+* RTClib.h                 //Library for controlling DS3231. (“DS3231_alarm”, https://github.com/adafruit/RTClib), (Adafruit: MIT License, n.d.)
+* IridiumSBD.h             //Library for communucatoin between Arduino and Iridium modems.(https://github.com/mikalhart/IridiumSBD/blob/master/src/IridiumSBD.h), (Hart, 2019)
+* LowPower.h               //Standard libraries for Arduino sleep function.
+* avr/sleep.h
 
 
 There are several manual inputs required, which are as follows:
@@ -21,4 +21,4 @@ There are several manual inputs required, which are as follows:
 * Window Size for the Moving Average Filter was chosen to be 20 after testing and simulation (see sectiom 7.2).
 * Inter-measurement period (the duration of passive phase) designed to be 6 hours for power efficient design. This value may be changed if necessary.
 
-The code is still a demo design, whereby further improvements are necessary. For example, UART communication with RockBlock9603 was designed based on theory, which needs to be validated thorugh actual communicaiton with the Iridium Modem.
+The code is yet a demo design, whereby further improvements are necessary. For example, UART communication with RockBlock9603 was designed based on theory, which needs to be validated thorugh actual communicaiton with the Iridium Modem.
