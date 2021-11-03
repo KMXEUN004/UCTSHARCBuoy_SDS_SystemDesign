@@ -1,4 +1,5 @@
-# UCT SHARC Buoy Snow Depth Sensor (SDS) System: Code Design (by Eunseong Kim (KMXEUN004))#
+# UCT SHARC Buoy Snow Depth Sensor (SDS) System: Code Design # 
+by Eunseong Kim (KMXEUN004)
 
 ## This GitHub respiratory contains the overall demo code design developed during the "UCT SHARC Snow Depth Sensor (SDS) System Design" project. 
 
