@@ -29,7 +29,7 @@ int distanceToZero = 1200;                  //Input the measured distance to the
                                             //It was set to be 1200 mm as a demonstartion, the value needs to be changed on installation after manually measuring the distance.
 
 int lightPenetrationDepth = 20;             //Input the light penetration depth in mm (assumed to be < 20 mm for Antarctic snow, see Chapter 3, Section 3.3).
-int duration = 5000;                        //Input the desired measurement duration in ms considering power efficiency.
+int duration = 10000;                        //Input the desired measurement duration in ms considering power efficiency.
 
 const int windowSize = 20;                 //Input the number of readings taken before finding the average. (higher - more accuracy with less noise, but slower in speed)
                                            //windowSize = 20 was chosen through trial and error, with consideration of time duration.
