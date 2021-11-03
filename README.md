@@ -1,10 +1,10 @@
-### UCT SHARC Buoy Snow Depth Sensor (SDS) System: Code Design ###
+# UCT SHARC Buoy Snow Depth Sensor (SDS) System: Code Design #
 
-## This GitHub respiratory contains the overall demo code design developed during the UCT SHARC Snow Depth Sensor (SDS) System Design project.##
+## This GitHub respiratory contains the overall demo code design developed during the UCT SHARC Snow Depth Sensor (SDS) System Design project.
 
-# The code design was done using Arduino IDE.#
-# Before uploading this code onto an Arduino microcontroller (Arduino Pro Mini 3.3 V as per designed), the overall circuit needs to be built (see section 6.1.2).#
-# The overall flow diagram of this code deesign can be found in section 6.2.1.#
+## The code design was done using Arduino IDE.
+## Before uploading this code onto an Arduino microcontroller (Arduino Pro Mini 3.3 V as per designed), the overall circuit needs to be built (see section 6.1.2).
+## The overall flow diagram of this code deesign can be found in section 6.2.1.
 
 The code design contains libraries which needs to be downloaded in order to use the code design. The following libraries and the associated links are listed below:
 *VL53L1X.h                //Library for communication with the VL53L1X sensor. ("Continuous", https://github.com/pololu/vl53l1x-arduino),(Pololu, et al., 2021)
