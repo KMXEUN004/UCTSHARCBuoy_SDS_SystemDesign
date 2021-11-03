@@ -1,7 +1,7 @@
 # UCT SHARC Buoy: Snow Depth Sensor (SDS) System - Code Design 
 by Eunseong Kim (KMXEUN004)
 #
-### This GitHub respiratory contains the overall demo code design developed throughout the "UCT SHARC Buoy: Snow Depth Sensor (SDS) System Design" project.<br /> The code can be found under the folder "Final_SnowDepthSensor", file named "Final_SnowDepthSensor.ino". 
+### This GitHub respiratory contains the overall demo code design developed throughout the "UCT SHARC Buoy: Snow Depth Sensor (SDS) System Design" project.<br /> <br /> The code can be found under the folder "Final_SnowDepthSensor", file named "Final_SnowDepthSensor.ino". 
 #
 * All code design was done using Arduino IDE.
 * Before uploading this code onto an Arduino microcontroller (Arduino Pro Mini 3.3 V as per designed), the overall circuit needs to be built according to section 6.1.2.
